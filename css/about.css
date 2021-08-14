@@ -1,0 +1,24 @@
+/* ===ABOUT PAGE=== */
+.about-template {
+    color: grey;
+    width: 70vw;
+    margin: 10px auto;
+}
+
+.about-template h1 {
+    color: black;
+    text-align: center;
+}
+
+.about-template * {
+    text-decoration: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+#about-bg {
+    width: 100vw;
+    height: 90vh;
+    object-fit: cover;
+}
+
